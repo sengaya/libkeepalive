@@ -1,0 +1,5 @@
+libkeepalive (0.2-1) unstable; urgency=low
+
+  * Initial release
+
+ -- Thilo Uttendorfer <debian@uttendorfer.net>  Sun, 02 Oct 2011 22:29:11 +0200

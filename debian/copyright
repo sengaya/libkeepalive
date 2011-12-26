@@ -1,0 +1,25 @@
+This work was packaged for Debian by:
+
+    Thilo Uttendorfer <debian@uttendorfer.net> on  Sun, 02 Oct 2011 22:29:11 +0200
+
+It was downloaded from http://libkeepalive.sourceforge.net/
+
+Upstream Author(s):
+
+    Fabio Busatto
+
+Copyright:
+
+    Fabio Busatto
+
+License:
+
+    GNU General Public License (GPL)
+
+The Debian packaging is:
+
+    Copyright (C) 2011 Thilo Uttendorfer <mail@uttendorfer.net>
+
+and is licensed under the GPL version 3, 
+see `/usr/share/common-licenses/GPL-3'.
+

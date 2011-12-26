@@ -1,0 +1,14 @@
+Source: libkeepalive
+Section: libs
+Priority: extra
+Maintainer: Thilo Uttendorfer <debian@uttendorfer.net>
+Build-Depends: debhelper (>= 7)
+Standards-Version: 3.9.1
+Homepage: http://libkeepalive.sourceforge.net/
+
+Package: libkeepalive
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Description: Enables tcp keepalive without changes in the original program
+ libkeepalive is a library that enables tcp keepalive features in glibc based
+ binary dynamic executables, without any change in the original program.

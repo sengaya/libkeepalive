@@ -1,0 +1,4 @@
+libkeepalive-0.2:
+   added support for runtime tuning using environment variables
+libkeepalive-0.1:
+   released first version of libkeepalive

@@ -3,7 +3,7 @@ Section: libs
 Priority: extra
 Maintainer: Thilo Uttendorfer <debian@uttendorfer.net>
 Build-Depends: debhelper (>= 7)
-Standards-Version: 3.9.1
+Standards-Version: 3.9.3
 Homepage: http://libkeepalive.sourceforge.net/
 
 Package: libkeepalive

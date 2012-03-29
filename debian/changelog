@@ -1,6 +1,6 @@
-libkeepalive (0.2-2) unstable; urgency=low
+libkeepalive (0.2-1~ubuntu1) lucid; urgency=low
 
-  * Updated to Debian Standards-Version 3.9.3
+  * Build for Ubuntu
 
  -- Thilo Uttendorfer <debian@uttendorfer.net>  Sun, 11 Mar 2012 21:26:03 +0100
 

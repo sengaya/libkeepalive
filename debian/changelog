@@ -1,4 +1,4 @@
-libkeepalive (0.2-1~ubuntu1) lucid; urgency=low
+libkeepalive (0.2-1ubuntu1) lucid; urgency=low
 
   * Build for Ubuntu
 

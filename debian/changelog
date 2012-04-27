@@ -1,3 +1,9 @@
+libkeepalive (0.2-2~ppa1~precise1) precise; urgency=low
+
+  * Build for Ubuntu 12.04
+
+ -- Thilo Uttendorfer <debian@uttendorfer.net>  Sat, 28 Apr 2012 00:22:15 +0200
+
 libkeepalive (0.2-2) unstable; urgency=low
 
   * Updated to Debian Standards-Version 3.9.3

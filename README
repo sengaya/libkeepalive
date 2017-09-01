@@ -53,7 +53,7 @@
    users and all daemons loaded by the system startup process.
    Adding the full path of the libkeepalive.so dynamic library to
    /etc/ld.so.preload you obtain the same result as the LD_PRELOAD variable is
-   always set, forcing the use indipendently from the environment.
+   always set, forcing the use independently from the environment.
 
 7. DISABLING FOR A SPECIFIC EXECUTION
    If you need to disable the action of libkeepalive for a single job, or if
